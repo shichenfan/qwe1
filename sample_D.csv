@@ -1,155 +1,155 @@
-"","ID","ProjectType","Jurisdiction","ProjectDescription","Mobility_._Congestion","Reliability","Connectivity","Multimodalism","Asset_Management","Saftey","Air_._Climate","Cultural_._Environmental_Resources","Social_Equity","Land_Use_Compatibility","Goods_Movement","Employment_Accessibility","Final_Score","Performance_Tier","Cost"
-"1","MID-01","Bike","ATL","10th St Bridge Cycle Track",100,NA,35,60,NA,57,100,68,100,75,NA,100,74,1,4580000
-"2","GW-380","Bike","GW","Buford Hwy Bike & Ped",23,NA,68,70,NA,74,4,63,0,25,NA,100,50,4,5210000
-"3","ADID-02","Ped","ATL","Northside Drive Ped. Imp.",100,NA,100,30,NA,58,73,50,0,100,NA,100,70,1,6150000
-"4","HOL-01","Ped","CH","Holly Springs - multiple streets",23,NA,40,0,NA,10,4,50,0,0,NA,100,24,4,3090000
-"5","DK-414-1","Ped","DK","Ped to Schools",54,NA,100,30,NA,27,19,50,100,50,NA,100,60,4,5680000
-"6","DK-414-2","Ped","DK","Ped to Schools",54,NA,100,30,NA,27,19,50,100,50,NA,100,60,4,5680000
-"7","DK-414-3","Ped","DK","Ped to Schools",54,NA,100,30,NA,27,19,50,100,50,NA,100,60,4,5680000
-"8","DK-441","Ped","DK","US 278 Improvements",46,NA,100,70,NA,48,100,55,0,50,NA,100,63,1,5340000
-"9","FAI-01","Ped","FA","Broad Street Ped & Bike Lanes",38,NA,100,93,NA,67,27,38,0,50,NA,100,62,3,4600000
-"10","COS-01","Ped","FN","Roswell Road/SR 9/US 19",100,NA,100,30,NA,66,100,5,100,50,NA,100,74,3,7800000
-"11","FS-287","Ped","FS","North Central Ave Improv.",33,NA,100,30,NA,18,45,50,100,50,NA,100,57,2,330000
-"12","DAL-02","Ped","PA","SR 61/Confederate Avenue",26,NA,40,0,NA,33,7,50,0,0,NA,100,28,2,250000
-"13","CL-01","Road Asset","CL","Forest Parkway Pavement Rehab",74,NA,66,50,32,25,NA,40,100,NA,50,100,58,3,5010000
-"14","CL-267","Road Asset","CL","Valley Hill Rd Bridge Replacement",33,NA,66,50,53,50,NA,62,100,NA,50,100,60,3,5810000
-"15","3-Mar","Road Asset","CO","Franklin Gateway Bridge",40,NA,0,100,56,0,NA,62,100,NA,0,100,48,3,4170000
-"16","DO-300","Road Asset","DO","Riverside Parkway Bridge Upgrade",28,NA,66,0,52,0,NA,50,0,NA,50,100,37,1,630000
-"17","FA-02-1","Road Asset","FA","Fayette Resurf  - W.McIntosh",8,NA,33,0,95,50,NA,26,100,NA,0,100,47,3,590000
-"18","FA-02-10","Road Asset","FA","Fayette Resurf - Lees Lake Rd",5,NA,33,0,77,50,NA,38,0,NA,0,100,36,4,580000
-"19","FA-02-11","Road Asset","FA","Fayette Resurf - Sandy Creek",23,NA,66,0,57,50,NA,0,0,NA,0,100,38,3,940000
-"20","FA-02-2","Road Asset","FA","Fayette Resurf - Hampton Rd",18,NA,33,0,90,50,NA,37,0,NA,0,100,40,1,270000
-"21","FA-02-3","Road Asset","FA","Fayette Resurf - Berhard",9,NA,33,0,79,50,NA,41,0,NA,0,0,27,2,260000
-"22","FA-02-4","Road Asset","FA","Fayette Resurf - Robbinson Rd",31,NA,66,0,58,50,NA,28,0,NA,0,0,30,4,2010000
-"23","FA-02-5","Road Asset","FA","Fayette Resurf - S.Peachtree Pkwy",36,NA,66,0,68,50,NA,24,0,NA,0,0,32,4,3040000
-"24","FA-02-6","Road Asset","FA","Fayette Resurf - Beau/Redwine",39,NA,66,0,51,50,NA,31,0,NA,0,100,41,1,600000
-"25","FA-02-7","Road Asset","FA","Fayette Resurf - Grady",45,NA,33,0,50,50,NA,46,0,NA,50,100,42,1,230000
-"26","FA-02-8","Road Asset","FA","Fayette Resurf - Dogwood",14,NA,33,0,59,50,NA,35,0,NA,0,0,24,4,570000
-"27","FA-02-9","Road Asset","FA","Fayette Resurf - Tyrone Rd",26,NA,66,0,79,50,NA,39,0,NA,0,0,33,2,430000
-"28","JOH-05","Road Asset","FN","SR120 Landscaping & Sound Abatement",94,NA,66,0,18,50,NA,26,0,NA,50,0,37,2,2000000
-"29","GW-PVT1","Road Asset","GW","Peachtree Ind. Blvd Resurfacing",100,NA,66,0,62,0,NA,24,0,NA,50,100,47,1,2300000
-"30","GW-PVT2-1","Road Asset","GW","Sat Blvd Resurf - PH1 - PH to SR120",100,NA,66,0,60,0,NA,37,0,NA,0,100,43,1,1500000
-"31","GW-PVT2-2","Road Asset","GW","Sat Blvd Resurf - PH1 - PH to SR120",100,NA,66,0,60,0,NA,37,0,NA,0,100,43,1,1500000
-"32","GW-PVT3","Road Asset","GW","Riverside Parkway Resurfacing",58,NA,33,0,43,0,NA,39,0,NA,0,100,31,2,800000
-"33","GW-PVT4","Road Asset","GW","Buford Dam Road Resurfacing",36,NA,66,0,69,0,NA,22,0,NA,0,0,25,2,950000
-"34","GW-PVT5","Road Asset","GW","Sat Blvd Resurf - PH2 - MG Ferry to Smith",53,NA,66,0,46,0,NA,44,0,NA,0,100,35,2,1000000
-"35","NE-106","Road Asset","NE","Brown Bridge Rd @Yellow River",46,NA,66,50,100,0,NA,61,0,NA,50,0,43,3,6660000
-"36","NE-107","Road Asset","NE","Brown Bridge Rd @Snapping Shoal",42,NA,66,0,69,25,NA,75,0,NA,50,0,36,4,4550000
-"37","CCID01","Road Expansion","CO","Akers Mill Express Lane Ramps",14,100,0,0,NA,13,0,41,0,NA,0,73,25,2,20570000
-"38","CO-450B","Road Expansion","CO","S. Barrett Pkway Reliever - PH3",70,0,100,100,NA,38,82,49,0,NA,0,84,55,1,31160000
-"39","NEWNAN-01","Road Expansion","CW","Lower Fayetteville Rd Widening",24,30,0,62,NA,55,31,48,100,NA,0,65,40,3,52200000
-"40","EAS-01","Road Expansion","FS","Welcome All Rd Widening",11,55,0,9,NA,21,35,48,100,NA,100,70,39,3,6330000
-"41","FT-001F","Road Expansion","FT","SR9 Widening",31,76,0,20,NA,67,43,43,0,NA,100,62,44,1,17500000
-"42","AR-ML-020","Road Expansion","GDOT","I-285 @I-20 W - Int. Recons. & Widening",86,14,0,0,NA,14,0,50,100,NA,100,97,42,3,40100000
-"43","AR-ML-025","Road Expansion","GDOT","I-285 @I-20 E - Int. Recons. & Widening",50,42,0,0,NA,41,100,50,0,NA,100,50,40,1,29190000
-"44","AR-ML-210","Road Expansion","GDOT","I-285 from I-75 to I-20 Express Lanes",50,64,0,0,NA,17,0,0,100,NA,0,100,34,2,33400000
-"45","AR-ML-240","Road Expansion","GDOT","I-285 East Wall Express Lanes",50,55,0,0,NA,20,0,30,100,NA,0,100,35,2,42720000
-"46","GW-269","Road Expansion","GW","SR124 Widening",100,100,0,100,NA,37,46,33,0,NA,100,100,65,1,39310000
-"47","GW-389","Road Expansion","GW","I-85 @ McGinnis Ferry Rd - New Int.",9,0,0,0,NA,25,35,50,0,NA,100,74,25,2,15200000
-"48","GW-EVM1","Road Expansion","GW","North Evemore Pkwy Extension",19,0,100,4,NA,38,25,46,0,NA,100,22,35,2,11600000
-"49","GW-KH","Road Expansion","GW","Killian Hill Rd Widening",69,45,0,0,NA,29,58,45,100,NA,0,33,35,1,20000000
-"50","HE-005","Road Expansion","HE","SR81 Widening",51,31,0,62,NA,41,71,55,100,NA,100,57,52,1,21940000
-"51","HE-109","Road Expansion","HE","Rock Quarry Road Extension",15,0,100,33,NA,25,45,65,0,NA,0,23,31,2,7000000
-"52","HE-126 B","Road Expansion","HE","Bill Gardner Parkway Widening",36,32,0,45,NA,88,30,52,0,NA,100,64,45,3,18000000
-"53","HE-137","Road Expansion","HE","East Atlanta Road Widening",32,23,0,38,NA,26,37,47,0,NA,0,23,22,4,39000000
-"54","HE-161A","Road Expansion","HE","Rock Quarry Road Widening",36,33,0,68,NA,29,38,64,0,NA,0,63,33,4,32980000
-"55","HE-193","Road Expansion","HE","Jodeco Road Widening",11,26,0,42,NA,27,27,68,0,NA,0,12,20,4,23700000
-"56","PA-036B","Road Expansion","PA","Cedarcrest Rd Widening",4,3,0,19,NA,47,25,34,0,NA,0,15,15,4,38850000
-"57","RO 235E1","Road Expansion","RO","Sigman Rd Widening - PH4",8,53,0,50,NA,60,37,58,0,NA,100,68,42,3,27310000
-"58","RO 243","Road Expansion","RO","I-20 Crossing - Old Cov. To Flat Shoals",5,0,100,16,NA,13,31,54,0,NA,0,70,29,4,21750000
-"59","RO-235D","Road Expansion","RO","Sigman Rd Widening - PH3",26,25,0,71,NA,65,31,71,100,NA,100,70,51,3,28300000
-"60","Atlanta-03","Road Operations","ATL","Peachtree Strategy",49,44,100,0,NA,36,0,48,100,NA,0,100,49,3,18000000
-"61","CHE-01","Road Operations","CH","Trickum Rd @ SR 92 Int. Improvements",30,95,100,0,NA,75,0,50,0,NA,100,0,48,3,4500000
-"62","CHE-02","Road Operations","CH","I-575 @ Towne Lake Pkwy Int. Improv.",48,38,100,0,NA,72,38,50,0,NA,100,0,46,3,5800000
-"63","CHE-03","Road Operations","CH","I-575 @ Ridgewalk Pkwy Int. Improv.",41,49,100,0,NA,75,38,50,0,NA,100,0,47,3,4690000
-"64","Brookhaven-04a","Road Operations","DK","Ashford Dun. @ Windsor Pkwy",70,84,100,30,NA,44,34,50,0,NA,0,0,46,1,2600000
-"65","Brookhaven-04b","Road Operations","DK","Ashford Dun. @ Ptree Rd",25,57,100,30,NA,49,27,49,0,NA,0,0,37,4,8240000
-"66","Brookhaven-08","Road Operations","DK","Ashford Dun. @ Mont. Elem.",47,97,100,48,NA,38,28,50,0,NA,0,0,45,4,1920000
-"67","Brookhaven-10","Road Operations","DK","Ashford Dun. Rd South",33,62,100,46,NA,51,28,48,0,NA,0,0,41,4,7600000
-"68","DK-065B","Road Operations","DK","Panola Rd Seg.2 Oprtnl Impr.",76,55,100,100,NA,48,100,53,100,NA,0,100,74,1,22180000
-"69","DK-344C-1","Road Operations","DK","25 signal upgrades",69,50,100,0,NA,49,100,51,100,NA,100,100,69,1,3200000
-"70","DK-344C-2","Road Operations","DK","25 signal upgrades",69,50,100,0,NA,49,100,51,100,NA,100,100,69,1,3200000
-"71","DK-344C-3","Road Operations","DK","25 signal upgrades",69,50,100,0,NA,49,100,51,100,NA,100,100,69,1,3200000
-"72","DUN-01","Road Operations","DK","Chamblee Dun. Impr.",92,100,0,50,NA,67,43,49,0,NA,0,0,44,2,4600000
-"73","FN-287","Road Operations","FN","SR 120 - Parsons to Medlock",41,53,100,0,NA,31,33,47,0,NA,100,0,41,4,16000000
-"74","FN-288A","Road Operations","FN","Barnwell @ Holcolmb Br.",30,48,100,32,NA,30,28,49,0,NA,100,0,42,4,7000000
-"75","FT-335","Road Operations","FT","Jewell Bennett Rd @ SR9 Realign/Turn",4,17,100,0,NA,21,25,50,0,NA,100,0,30,4,1400000
-"76","GW-CVEH","Road Operations","GW","Ptree Ind. Blvd. Smart Cor - PH1 &2",75,47,100,0,NA,40,100,0,0,NA,100,100,59,1,2850000
-"77","GW-ITS1-1","Road Operations","GW","ITS Expansion - PH1",66,35,100,0,NA,13,100,36,100,NA,100,100,61,1,4890000
-"78","GW-ITS1-2","Road Operations","GW","ITS Expansion - PH1",66,35,100,0,NA,13,100,36,100,NA,100,100,61,1,4890000
-"79","GW-ITS1-3","Road Operations","GW","ITS Expansion - PH1",66,35,100,0,NA,13,100,36,100,NA,100,100,61,1,4890000
-"80","GW-ITS1-4","Road Operations","GW","ITS Expansion - PH1",66,35,100,0,NA,13,100,36,100,NA,100,100,61,1,4890000
-"81","GW-ITS1-5","Road Operations","GW","ITS Expansion - PH1",66,35,100,0,NA,13,100,36,100,NA,100,100,61,1,4890000
-"82","GW-ITS1-6","Road Operations","GW","ITS Expansion - PH1",66,35,100,0,NA,13,100,36,100,NA,100,100,61,1,4890000
-"83","GW-ITS1-7","Road Operations","GW","ITS Expansion - PH1",66,35,100,0,NA,13,100,36,100,NA,100,100,61,1,4890000
-"84","GW-ITS3-1","Road Operations","GW","ITS Expansion - PH2",59,3,100,0,NA,25,100,36,100,NA,100,100,58,1,5930000
-"85","GW-ITS3-2","Road Operations","GW","ITS Expansion - PH2",59,3,100,0,NA,25,100,36,100,NA,100,100,58,1,5930000
-"86","GW-ITS3-3","Road Operations","GW","ITS Expansion - PH2",59,3,100,0,NA,25,100,36,100,NA,100,100,58,1,5930000
-"87","GW-ITS3-4","Road Operations","GW","ITS Expansion - PH2",59,3,100,0,NA,25,100,36,100,NA,100,100,58,1,5930000
-"88","GW-ITS3-5","Road Operations","GW","ITS Expansion - PH2",59,3,100,0,NA,25,100,36,100,NA,100,100,58,1,5930000
-"89","GW-ITS3-6","Road Operations","GW","ITS Expansion - PH2",59,3,100,0,NA,25,100,36,100,NA,100,100,58,1,5930000
-"90","NE-105","Road Operations","NE","Realignment",8,12,100,0,NA,88,0,50,0,NA,100,100,47,3,5760000
-"91","GRI-02","Road Operations","SP","Solomon St. Inters. Impr.",6,24,0,0,NA,39,25,55,0,NA,0,0,14,4,2400000
-"92","SP-067A","Road Operations","SP","SR 155 Relocation",7,26,100,0,NA,2,25,46,100,NA,100,100,46,4,12840000
-"93","AR-550","Transit Asset","GRTA","Xpress Fleet Reinvestment",54,NA,NA,NA,67,100,NA,0,0,NA,NA,100,60,3,4250000
-"94","GRTA-003","Transit Asset","GRTA","Xpress Breeze Migrat. & Mobile Ticket",90,NA,NA,NA,0,100,NA,0,0,NA,NA,100,52,2,2500000
-"95","GRTA-004","Transit Asset","GRTA","Xpress Integrated Tech Project",90,NA,NA,NA,0,100,NA,0,0,NA,NA,100,52,2,8000000
-"96","GRTA-006","Transit Asset","GRTA","Xpress Rockdale P&R Expansion",33,NA,NA,NA,13,100,NA,30,100,NA,NA,100,60,3,8250000
-"97","GW-PNR","Transit Asset","GW","Indian Trail P&R Lot Improvements",33,NA,NA,NA,86,0,NA,25,100,NA,NA,100,63,3,2000000
-"98","M-AR-274B2","Transit Asset","MARTA","MARTA Clean Bus Procurement",17,NA,NA,NA,69,0,100,0,100,NA,NA,100,58,1,5500000
-"99","MARTA-02","Transit Asset","MARTA","Edgewood Station TOD Improvements",59,NA,NA,NA,50,0,NA,60,100,NA,NA,100,63,2,4700000
-"100","CO-702","Transit Expansion","CO","Weekend Transit Service",100,16,100,0,NA,0,100,0,100,25,NA,50,53,3,6800000
-"101","DO-01","Transit Expansion","DO","Fixed Route Service",14,13,67,50,NA,0,16,46,100,25,NA,62,40,4,8000000
-"102","GRTA-002","Transit Expansion","GRTA","Xpress NW Service Expansion",9,52,67,0,NA,100,6,42,100,25,NA,67,47,3,5880000
-"103","GRTA-005","Transit Expansion","GRTA","Xpress Sugarloaf P&R Expansion",1,50,67,50,NA,100,0,65,0,0,NA,100,43,3,8250000
-"104","GW-BUS1","Transit Expansion","GW","Gwinnett Transit Services Enh. - PH1",64,13,100,25,NA,0,58,62,100,50,NA,88,58,1,5040000
-"105","GW-BUS2","Transit Expansion","GW","Gwinnett Transit Services Enh. - PH2",64,13,100,25,NA,0,58,47,100,50,NA,88,57,1,3210000
-"106","GW-BUS3","Transit Expansion","GW","Gwinnett Transit Route 55",26,25,33,25,NA,0,29,47,100,50,NA,83,42,4,4590000
-"107","MARTA-04","Transit Expansion","MARTA","Clifton Corridor",100,71,67,0,NA,100,100,48,100,25,NA,73,69,3,45000000
-"108","MARTA-05-1","Transit Expansion","MARTA","MORE MARTA - Route 71",18,30,33,0,NA,0,7,48,100,0,NA,73,31,2,4810000
-"109","MARTA-05-10","Transit Expansion","MARTA","MORE MARTA - Route 60",0,25,33,0,NA,0,0,49,100,0,NA,68,27,4,2480000
-"110","MARTA-05-11","Transit Expansion","MARTA","MORE MARTA - Route 2",1,13,67,0,NA,0,0,48,100,75,NA,72,38,4,1380000
-"111","MARTA-05-12","Transit Expansion","MARTA","MORE MARTA - Route 102",11,13,67,0,NA,0,10,49,100,75,NA,81,41,2,1210000
-"112","MARTA-05-2","Transit Expansion","MARTA","MORE MARTA - Route 78",17,30,33,0,NA,0,12,49,100,25,NA,77,34,2,2500000
-"113","MARTA-05-3","Transit Expansion","MARTA","MORE MARTA - Route 83",13,33,33,0,NA,0,8,49,100,25,NA,63,32,2,3310000
-"114","MARTA-05-4","Transit Expansion","MARTA","MORE MARTA - Route 95",100,30,67,0,NA,0,100,47,100,0,NA,88,54,1,4660000
-"115","MARTA-05-5","Transit Expansion","MARTA","MORE MARTA - Route 110",100,30,100,0,NA,0,100,49,100,25,NA,89,62,1,1490000
-"116","MARTA-05-6","Transit Expansion","MARTA","MORE MARTA - Route 12",65,25,33,0,NA,0,0,49,100,25,NA,81,40,2,2570000
-"117","MARTA-05-7","Transit Expansion","MARTA","MORE MARTA - Route 49",1,25,67,0,NA,0,0,49,100,25,NA,76,35,4,2820000
-"118","MARTA-05-8","Transit Expansion","MARTA","MORE MARTA - Route 51",51,25,67,0,NA,0,51,49,100,25,NA,73,45,1,2670000
-"119","MARTA-05-9","Transit Expansion","MARTA","MORE MARTA - Route 55",43,25,67,0,NA,0,36,48,100,25,NA,70,42,3,4260000
-"120","AR-450A","Trail","ATL","ATL Beltline - NE Quad",100,NA,80,50,NA,100,100,67,100,25,NA,100,80,3,101000000
-"121","AR-450C","Trail","ATL","ATL Beltline - SE Quad",100,NA,100,50,NA,100,100,65,100,25,NA,100,83,3,98820000
-"122","ATL-299","Trail","ATL","Lee Street Trail",100,NA,100,50,NA,75,100,48,100,25,NA,100,78,1,8150000
-"123","BCID-02","Trail","ATL","Lenox Rd Trail",52,NA,20,0,NA,0,46,55,0,0,NA,100,27,2,4550000
-"124","BCID-04","Trail","ATL","Peachtree Rd Trail - Buckhead",83,NA,20,0,NA,50,86,50,0,25,NA,100,44,3,13950000
-"125","LBI-01","Trail","ATL","PATH400 - Wieuca to Loridans",34,NA,80,50,NA,75,32,61,0,0,NA,0,40,4,5600000
-"126","LBI-2","Trail","ATL","PATH400 - Sandy Springs Ext.",49,NA,100,50,NA,75,67,49,0,25,NA,100,59,1,3700000
-"127","WOO-1","Trail","CH","Noonday Creek Trail Extension",64,NA,100,0,NA,0,52,31,0,100,NA,100,51,1,3650000
-"128","1-Mar","Trail","CO","North Marietta Pkwy",50,NA,20,50,NA,50,44,37,100,0,NA,0,38,4,6650000
-"129","2-Mar","Trail","CO","Burnt Hickory Trail",36,NA,60,50,NA,50,39,32,0,25,NA,0,35,2,2320000
-"130","CCID03","Trail","CO","Akers Mill Trail",24,NA,20,0,NA,75,19,47,0,0,NA,0,22,4,2480000
-"131","CO-2","Trail","CO","Mableton Parkway Trail - PH1",75,NA,60,50,NA,0,61,37,100,0,NA,100,52,1,6770000
-"132","CO-3","Trail","CO","Mableton Parkway Trail - PH2",65,NA,60,50,NA,25,52,45,100,0,NA,100,54,1,4700000
-"133","CO-462","Trail","CO","Rottenwood Creek Trail - PH1",16,NA,80,50,NA,50,14,25,100,25,NA,100,53,3,10920000
-"134","CO-703","Trail","CO","West Atlanta Street Trail",25,NA,100,0,NA,0,23,40,100,0,NA,0,32,2,2200000
-"135","CW-077","Trail","CW","Senoia Ivy Ridge Trail",20,NA,60,0,NA,0,16,48,0,0,NA,0,16,2,1300000
-"136","Brookhaven-02","Trail","DK","Peachtree Creek Greenway - PH2",49,NA,100,50,NA,50,36,79,100,0,NA,0,52,1,3400000
-"137","Brookhaven-05","Trail","DK","North Druid Hills Path",71,NA,20,50,NA,0,69,48,100,0,NA,0,36,2,4760000
-"138","Brookhaven-06","Trail","DK","Dresden Dr - Trail",34,NA,20,50,NA,75,34,47,0,25,NA,0,33,4,5000000
-"139","Brookhaven-09","Trail","DK","Peachtree Creek Greenway - PH1",57,NA,100,50,NA,50,43,69,100,0,NA,0,53,3,6600000
-"140","DK417","Trail","DK","Georgetown Multimodal",60,NA,20,50,NA,75,90,50,0,0,NA,100,48,3,6500000
-"141","DK418-A","Trail","DK","Perimeter Trails - Ashford Dunw.",100,NA,80,0,NA,50,96,50,0,0,NA,100,52,1,2820000
-"142","DK418-B","Trail","DK","Perimeter Trails - Ptree Dunwoody",49,NA,80,0,NA,50,49,49,0,0,NA,100,42,3,4720000
-"143","FA-353-1","Trail","FA","Fayetteville Multi-Use Path",62,NA,40,0,NA,0,49,32,0,25,NA,100,33,2,3090000
-"144","FA-353-3","Trail","FA","Fayetteville Multi-Use Path",62,NA,40,0,NA,0,49,32,0,25,NA,100,33,2,3090000
-"145","UNI-01","Trail","FS","Amenity Connector Trail",2,NA,40,0,NA,75,2,62,0,0,NA,100,32,4,550000
-"146","GW-384","Trail","GW","Western Gwinnett Bikeway Ext",90,NA,0,0,NA,0,88,36,0,25,NA,100,34,4,8770000
-"147","GW-385","Trail","GW","Norcross to Lilburn Trail",75,NA,60,0,NA,0,64,43,100,0,NA,100,46,1,5550000
-"148","GW-402","Trail","GW","Rogers Bridge",40,NA,60,0,NA,0,30,50,0,25,NA,0,22,4,4600000
-"149","GW-TRL1","Trail","GW","McDaniel Farm Park Connector",18,NA,20,0,NA,50,14,74,0,0,NA,100,29,4,3700000
-"150","NORC-17-02","Trail","GW","Norcross LCI Greenway",47,NA,20,0,NA,0,73,50,100,25,NA,100,40,3,5450000
-"151","Peachtree Corners-01","Trail","GW","Crooked Creek Multi-Use Trail",98,NA,80,0,NA,50,100,17,100,0,NA,100,60,1,4300000
-"152","DAL-01","Trail","PA","Dallas Battlefield Trail",32,NA,20,0,NA,0,26,44,0,0,NA,0,12,2,630000
-"153","PA-100","Trail","PA","Dallas Battlefield Trail - PH2",39,NA,20,0,NA,0,36,25,0,0,NA,0,12,4,4230000
-"154","LOG-01","Trail","WA","SR81 Shared Use Path",31,NA,20,0,NA,0,30,51,0,0,NA,0,13,2,2000000
+"","ID","County","ProjectType","Jurisdiction","ProjectDescription","Mobility_._Congestion","Reliability","Connectivity","Multimodalism","Asset_Management","Saftey","Air_._Climate","Cultural_._Environmental_Resources","Social_Equity","Land_Use_Compatibility","Goods_Movement","Employment_Accessibility","Final_Score","Performance_Tier","Cost"
+"1","MID-01","Fulton","Bike","ATL","10th St Bridge Cycle Track",100,NA,35,60,NA,57,100,68,100,75,NA,100,74,1,4580000
+"2","GW-380","Fulton","Bike","GW","Buford Hwy Bike & Ped",23,NA,68,70,NA,74,4,63,0,25,NA,100,50,4,5210000
+"3","ADID-02","Fulton","Ped","ATL","Northside Drive Ped. Imp.",100,NA,100,30,NA,58,73,50,0,100,NA,100,70,1,6150000
+"4","HOL-01","Fulton","Ped","CH","Holly Springs - multiple streets",23,NA,40,0,NA,10,4,50,0,0,NA,100,24,4,3090000
+"5","DK-414-1","Fulton","Ped","DK","Ped to Schools",54,NA,100,30,NA,27,19,50,100,50,NA,100,60,4,5680000
+"6","DK-414-2","Fulton","Ped","DK","Ped to Schools",54,NA,100,30,NA,27,19,50,100,50,NA,100,60,4,5680000
+"7","DK-414-3","Fulton","Ped","DK","Ped to Schools",54,NA,100,30,NA,27,19,50,100,50,NA,100,60,4,5680000
+"8","DK-441","Fulton","Ped","DK","US 278 Improvements",46,NA,100,70,NA,48,100,55,0,50,NA,100,63,1,5340000
+"9","FAI-01","Fulton","Ped","FA","Broad Street Ped & Bike Lanes",38,NA,100,93,NA,67,27,38,0,50,NA,100,62,3,4600000
+"10","COS-01","Fulton","Ped","FN","Roswell Road/SR 9/US 19",100,NA,100,30,NA,66,100,5,100,50,NA,100,74,3,7800000
+"11","FS-287","Fulton","Ped","FS","North Central Ave Improv.",33,NA,100,30,NA,18,45,50,100,50,NA,100,57,2,330000
+"12","DAL-02","Fulton","Ped","PA","SR 61/Confederate Avenue",26,NA,40,0,NA,33,7,50,0,0,NA,100,28,2,250000
+"13","CL-01","Fulton","Road Asset","CL","Forest Parkway Pavement Rehab",74,NA,66,50,32,25,NA,40,100,NA,50,100,58,3,5010000
+"14","CL-267","Fulton","Road Asset","CL","Valley Hill Rd Bridge Replacement",33,NA,66,50,53,50,NA,62,100,NA,50,100,60,3,5810000
+"15","3-Mar","Fulton","Road Asset","CO","Franklin Gateway Bridge",40,NA,0,100,56,0,NA,62,100,NA,0,100,48,3,4170000
+"16","DO-300","Fulton","Road Asset","DO","Riverside Parkway Bridge Upgrade",28,NA,66,0,52,0,NA,50,0,NA,50,100,37,1,630000
+"17","FA-02-1","Fulton","Road Asset","FA","Fayette Resurf  - W.McIntosh",8,NA,33,0,95,50,NA,26,100,NA,0,100,47,3,590000
+"18","FA-02-10","Fulton","Road Asset","FA","Fayette Resurf - Lees Lake Rd",5,NA,33,0,77,50,NA,38,0,NA,0,100,36,4,580000
+"19","FA-02-11","Fulton","Road Asset","FA","Fayette Resurf - Sandy Creek",23,NA,66,0,57,50,NA,0,0,NA,0,100,38,3,940000
+"20","FA-02-2","Fulton","Road Asset","FA","Fayette Resurf - Hampton Rd",18,NA,33,0,90,50,NA,37,0,NA,0,100,40,1,270000
+"21","FA-02-3","Cobb","Road Asset","FA","Fayette Resurf - Berhard",9,NA,33,0,79,50,NA,41,0,NA,0,0,27,2,260000
+"22","FA-02-4","Cobb","Road Asset","FA","Fayette Resurf - Robbinson Rd",31,NA,66,0,58,50,NA,28,0,NA,0,0,30,4,2010000
+"23","FA-02-5","Cobb","Road Asset","FA","Fayette Resurf - S.Peachtree Pkwy",36,NA,66,0,68,50,NA,24,0,NA,0,0,32,4,3040000
+"24","FA-02-6","Cobb","Road Asset","FA","Fayette Resurf - Beau/Redwine",39,NA,66,0,51,50,NA,31,0,NA,0,100,41,1,600000
+"25","FA-02-7","Cobb","Road Asset","FA","Fayette Resurf - Grady",45,NA,33,0,50,50,NA,46,0,NA,50,100,42,1,230000
+"26","FA-02-8","Cobb","Road Asset","FA","Fayette Resurf - Dogwood",14,NA,33,0,59,50,NA,35,0,NA,0,0,24,4,570000
+"27","FA-02-9","Cobb","Road Asset","FA","Fayette Resurf - Tyrone Rd",26,NA,66,0,79,50,NA,39,0,NA,0,0,33,2,430000
+"28","JOH-05","Cobb","Road Asset","FN","SR120 Landscaping & Sound Abatement",94,NA,66,0,18,50,NA,26,0,NA,50,0,37,2,2000000
+"29","GW-PVT1","Cobb","Road Asset","GW","Peachtree Ind. Blvd Resurfacing",100,NA,66,0,62,0,NA,24,0,NA,50,100,47,1,2300000
+"30","GW-PVT2-1","Cobb","Road Asset","GW","Sat Blvd Resurf - PH1 - PH to SR120",100,NA,66,0,60,0,NA,37,0,NA,0,100,43,1,1500000
+"31","GW-PVT2-2","Cobb","Road Asset","GW","Sat Blvd Resurf - PH1 - PH to SR120",100,NA,66,0,60,0,NA,37,0,NA,0,100,43,1,1500000
+"32","GW-PVT3","Cobb","Road Asset","GW","Riverside Parkway Resurfacing",58,NA,33,0,43,0,NA,39,0,NA,0,100,31,2,800000
+"33","GW-PVT4","Cobb","Road Asset","GW","Buford Dam Road Resurfacing",36,NA,66,0,69,0,NA,22,0,NA,0,0,25,2,950000
+"34","GW-PVT5","Cobb","Road Asset","GW","Sat Blvd Resurf - PH2 - MG Ferry to Smith",53,NA,66,0,46,0,NA,44,0,NA,0,100,35,2,1000000
+"35","NE-106","Cobb","Road Asset","NE","Brown Bridge Rd @Yellow River",46,NA,66,50,100,0,NA,61,0,NA,50,0,43,3,6660000
+"36","NE-107","Cobb","Road Asset","NE","Brown Bridge Rd @Snapping Shoal",42,NA,66,0,69,25,NA,75,0,NA,50,0,36,4,4550000
+"37","CCID01","Cobb","Road Expansion","CO","Akers Mill Express Lane Ramps",14,100,0,0,NA,13,0,41,0,NA,0,73,25,2,20570000
+"38","CO-450B","Cobb","Road Expansion","CO","S. Barrett Pkway Reliever - PH3",70,0,100,100,NA,38,82,49,0,NA,0,84,55,1,31160000
+"39","NEWNAN-01","Cobb","Road Expansion","CW","Lower Fayetteville Rd Widening",24,30,0,62,NA,55,31,48,100,NA,0,65,40,3,52200000
+"40","EAS-01","Cobb","Road Expansion","FS","Welcome All Rd Widening",11,55,0,9,NA,21,35,48,100,NA,100,70,39,3,6330000
+"41","FT-001F","Cobb","Road Expansion","FT","SR9 Widening",31,76,0,20,NA,67,43,43,0,NA,100,62,44,1,17500000
+"42","AR-ML-020","Cobb","Road Expansion","GDOT","I-285 @I-20 W - Int. Recons. & Widening",86,14,0,0,NA,14,0,50,100,NA,100,97,42,3,40100000
+"43","AR-ML-025","Cobb","Road Expansion","GDOT","I-285 @I-20 E - Int. Recons. & Widening",50,42,0,0,NA,41,100,50,0,NA,100,50,40,1,29190000
+"44","AR-ML-210","Cobb","Road Expansion","GDOT","I-285 from I-75 to I-20 Express Lanes",50,64,0,0,NA,17,0,0,100,NA,0,100,34,2,33400000
+"45","AR-ML-240","Cobb","Road Expansion","GDOT","I-285 East Wall Express Lanes",50,55,0,0,NA,20,0,30,100,NA,0,100,35,2,42720000
+"46","GW-269","Cobb","Road Expansion","GW","SR124 Widening",100,100,0,100,NA,37,46,33,0,NA,100,100,65,1,39310000
+"47","GW-389","Cobb","Road Expansion","GW","I-85 @ McGinnis Ferry Rd - New Int.",9,0,0,0,NA,25,35,50,0,NA,100,74,25,2,15200000
+"48","GW-EVM1","Cobb","Road Expansion","GW","North Evemore Pkwy Extension",19,0,100,4,NA,38,25,46,0,NA,100,22,35,2,11600000
+"49","GW-KH","Cobb","Road Expansion","GW","Killian Hill Rd Widening",69,45,0,0,NA,29,58,45,100,NA,0,33,35,1,20000000
+"50","HE-005","Cobb","Road Expansion","HE","SR81 Widening",51,31,0,62,NA,41,71,55,100,NA,100,57,52,1,21940000
+"51","HE-109","Cobb","Road Expansion","HE","Rock Quarry Road Extension",15,0,100,33,NA,25,45,65,0,NA,0,23,31,2,7000000
+"52","HE-126 B","Cobb","Road Expansion","HE","Bill Gardner Parkway Widening",36,32,0,45,NA,88,30,52,0,NA,100,64,45,3,18000000
+"53","HE-137","Cobb","Road Expansion","HE","East Atlanta Road Widening",32,23,0,38,NA,26,37,47,0,NA,0,23,22,4,39000000
+"54","HE-161A","Cobb","Road Expansion","HE","Rock Quarry Road Widening",36,33,0,68,NA,29,38,64,0,NA,0,63,33,4,32980000
+"55","HE-193","Cobb","Road Expansion","HE","Jodeco Road Widening",11,26,0,42,NA,27,27,68,0,NA,0,12,20,4,23700000
+"56","PA-036B","Cobb","Road Expansion","PA","Cedarcrest Rd Widening",4,3,0,19,NA,47,25,34,0,NA,0,15,15,4,38850000
+"57","RO 235E1","Cobb","Road Expansion","RO","Sigman Rd Widening - PH4",8,53,0,50,NA,60,37,58,0,NA,100,68,42,3,27310000
+"58","RO 243","Cobb","Road Expansion","RO","I-20 Crossing - Old Cov. To Flat Shoals",5,0,100,16,NA,13,31,54,0,NA,0,70,29,4,21750000
+"59","RO-235D","Cobb","Road Expansion","RO","Sigman Rd Widening - PH3",26,25,0,71,NA,65,31,71,100,NA,100,70,51,3,28300000
+"60","Atlanta-03","Cobb","Road Operations","ATL","Peachtree Strategy",49,44,100,0,NA,36,0,48,100,NA,0,100,49,3,18000000
+"61","CHE-01","Cobb","Road Operations","CH","Trickum Rd @ SR 92 Int. Improvements",30,95,100,0,NA,75,0,50,0,NA,100,0,48,3,4500000
+"62","CHE-02","Cobb","Road Operations","CH","I-575 @ Towne Lake Pkwy Int. Improv.",48,38,100,0,NA,72,38,50,0,NA,100,0,46,3,5800000
+"63","CHE-03","Cobb","Road Operations","CH","I-575 @ Ridgewalk Pkwy Int. Improv.",41,49,100,0,NA,75,38,50,0,NA,100,0,47,3,4690000
+"64","Brookhaven-04a","Cobb","Road Operations","DK","Ashford Dun. @ Windsor Pkwy",70,84,100,30,NA,44,34,50,0,NA,0,0,46,1,2600000
+"65","Brookhaven-04b","Cobb","Road Operations","DK","Ashford Dun. @ Ptree Rd",25,57,100,30,NA,49,27,49,0,NA,0,0,37,4,8240000
+"66","Brookhaven-08","Cobb","Road Operations","DK","Ashford Dun. @ Mont. Elem.",47,97,100,48,NA,38,28,50,0,NA,0,0,45,4,1920000
+"67","Brookhaven-10","Cobb","Road Operations","DK","Ashford Dun. Rd South",33,62,100,46,NA,51,28,48,0,NA,0,0,41,4,7600000
+"68","DK-065B","Cobb","Road Operations","DK","Panola Rd Seg.2 Oprtnl Impr.",76,55,100,100,NA,48,100,53,100,NA,0,100,74,1,22180000
+"69","DK-344C-1","Cobb","Road Operations","DK","25 signal upgrades",69,50,100,0,NA,49,100,51,100,NA,100,100,69,1,3200000
+"70","DK-344C-2","Cobb","Road Operations","DK","25 signal upgrades",69,50,100,0,NA,49,100,51,100,NA,100,100,69,1,3200000
+"71","DK-344C-3","Cobb","Road Operations","DK","25 signal upgrades",69,50,100,0,NA,49,100,51,100,NA,100,100,69,1,3200000
+"72","DUN-01","Cobb","Road Operations","DK","Chamblee Dun. Impr.",92,100,0,50,NA,67,43,49,0,NA,0,0,44,2,4600000
+"73","FN-287","Cobb","Road Operations","FN","SR 120 - Parsons to Medlock",41,53,100,0,NA,31,33,47,0,NA,100,0,41,4,16000000
+"74","FN-288A","Cobb","Road Operations","FN","Barnwell @ Holcolmb Br.",30,48,100,32,NA,30,28,49,0,NA,100,0,42,4,7000000
+"75","FT-335","Cobb","Road Operations","FT","Jewell Bennett Rd @ SR9 Realign/Turn",4,17,100,0,NA,21,25,50,0,NA,100,0,30,4,1400000
+"76","GW-CVEH","Cobb","Road Operations","GW","Ptree Ind. Blvd. Smart Cor - PH1 &2",75,47,100,0,NA,40,100,0,0,NA,100,100,59,1,2850000
+"77","GW-ITS1-1","Cobb","Road Operations","GW","ITS Expansion - PH1",66,35,100,0,NA,13,100,36,100,NA,100,100,61,1,4890000
+"78","GW-ITS1-2","Cobb","Road Operations","GW","ITS Expansion - PH1",66,35,100,0,NA,13,100,36,100,NA,100,100,61,1,4890000
+"79","GW-ITS1-3","Cobb","Road Operations","GW","ITS Expansion - PH1",66,35,100,0,NA,13,100,36,100,NA,100,100,61,1,4890000
+"80","GW-ITS1-4","Cobb","Road Operations","GW","ITS Expansion - PH1",66,35,100,0,NA,13,100,36,100,NA,100,100,61,1,4890000
+"81","GW-ITS1-5","Cobb","Road Operations","GW","ITS Expansion - PH1",66,35,100,0,NA,13,100,36,100,NA,100,100,61,1,4890000
+"82","GW-ITS1-6","Cobb","Road Operations","GW","ITS Expansion - PH1",66,35,100,0,NA,13,100,36,100,NA,100,100,61,1,4890000
+"83","GW-ITS1-7","Cobb","Road Operations","GW","ITS Expansion - PH1",66,35,100,0,NA,13,100,36,100,NA,100,100,61,1,4890000
+"84","GW-ITS3-1","Cobb","Road Operations","GW","ITS Expansion - PH2",59,3,100,0,NA,25,100,36,100,NA,100,100,58,1,5930000
+"85","GW-ITS3-2","Cobb","Road Operations","GW","ITS Expansion - PH2",59,3,100,0,NA,25,100,36,100,NA,100,100,58,1,5930000
+"86","GW-ITS3-3","Cobb","Road Operations","GW","ITS Expansion - PH2",59,3,100,0,NA,25,100,36,100,NA,100,100,58,1,5930000
+"87","GW-ITS3-4","Cobb","Road Operations","GW","ITS Expansion - PH2",59,3,100,0,NA,25,100,36,100,NA,100,100,58,1,5930000
+"88","GW-ITS3-5","Cobb","Road Operations","GW","ITS Expansion - PH2",59,3,100,0,NA,25,100,36,100,NA,100,100,58,1,5930000
+"89","GW-ITS3-6","Cobb","Road Operations","GW","ITS Expansion - PH2",59,3,100,0,NA,25,100,36,100,NA,100,100,58,1,5930000
+"90","NE-105","Cobb","Road Operations","NE","Realignment",8,12,100,0,NA,88,0,50,0,NA,100,100,47,3,5760000
+"91","GRI-02","Cobb","Road Operations","SP","Solomon St. Inters. Impr.",6,24,0,0,NA,39,25,55,0,NA,0,0,14,4,2400000
+"92","SP-067A","Cobb","Road Operations","SP","SR 155 Relocation",7,26,100,0,NA,2,25,46,100,NA,100,100,46,4,12840000
+"93","AR-550","Cobb","Transit Asset","GRTA","Xpress Fleet Reinvestment",54,NA,NA,NA,67,100,NA,0,0,NA,NA,100,60,3,4250000
+"94","GRTA-003","Cobb","Transit Asset","GRTA","Xpress Breeze Migrat. & Mobile Ticket",90,NA,NA,NA,0,100,NA,0,0,NA,NA,100,52,2,2500000
+"95","GRTA-004","Cobb","Transit Asset","GRTA","Xpress Integrated Tech Project",90,NA,NA,NA,0,100,NA,0,0,NA,NA,100,52,2,8000000
+"96","GRTA-006","Cobb","Transit Asset","GRTA","Xpress Rockdale P&R Expansion",33,NA,NA,NA,13,100,NA,30,100,NA,NA,100,60,3,8250000
+"97","GW-PNR","Cobb","Transit Asset","GW","Indian Trail P&R Lot Improvements",33,NA,NA,NA,86,0,NA,25,100,NA,NA,100,63,3,2000000
+"98","M-AR-274B2","Cobb","Transit Asset","MARTA","MARTA Clean Bus Procurement",17,NA,NA,NA,69,0,100,0,100,NA,NA,100,58,1,5500000
+"99","MARTA-02","Cobb","Transit Asset","MARTA","Edgewood Station TOD Improvements",59,NA,NA,NA,50,0,NA,60,100,NA,NA,100,63,2,4700000
+"100","CO-702","Cobb","Transit Expansion","CO","Weekend Transit Service",100,16,100,0,NA,0,100,0,100,25,NA,50,53,3,6800000
+"101","DO-01","Forsyth","Transit Expansion","DO","Fixed Route Service",14,13,67,50,NA,0,16,46,100,25,NA,62,40,4,8000000
+"102","GRTA-002","Forsyth","Transit Expansion","GRTA","Xpress NW Service Expansion",9,52,67,0,NA,100,6,42,100,25,NA,67,47,3,5880000
+"103","GRTA-005","Forsyth","Transit Expansion","GRTA","Xpress Sugarloaf P&R Expansion",1,50,67,50,NA,100,0,65,0,0,NA,100,43,3,8250000
+"104","GW-BUS1","Forsyth","Transit Expansion","GW","Gwinnett Transit Services Enh. - PH1",64,13,100,25,NA,0,58,62,100,50,NA,88,58,1,5040000
+"105","GW-BUS2","Forsyth","Transit Expansion","GW","Gwinnett Transit Services Enh. - PH2",64,13,100,25,NA,0,58,47,100,50,NA,88,57,1,3210000
+"106","GW-BUS3","Forsyth","Transit Expansion","GW","Gwinnett Transit Route 55",26,25,33,25,NA,0,29,47,100,50,NA,83,42,4,4590000
+"107","MARTA-04","Forsyth","Transit Expansion","MARTA","Clifton Corridor",100,71,67,0,NA,100,100,48,100,25,NA,73,69,3,45000000
+"108","MARTA-05-1","Forsyth","Transit Expansion","MARTA","MORE MARTA - Route 71",18,30,33,0,NA,0,7,48,100,0,NA,73,31,2,4810000
+"109","MARTA-05-10","Forsyth","Transit Expansion","MARTA","MORE MARTA - Route 60",0,25,33,0,NA,0,0,49,100,0,NA,68,27,4,2480000
+"110","MARTA-05-11","Forsyth","Transit Expansion","MARTA","MORE MARTA - Route 2",1,13,67,0,NA,0,0,48,100,75,NA,72,38,4,1380000
+"111","MARTA-05-12","Forsyth","Transit Expansion","MARTA","MORE MARTA - Route 102",11,13,67,0,NA,0,10,49,100,75,NA,81,41,2,1210000
+"112","MARTA-05-2","Forsyth","Transit Expansion","MARTA","MORE MARTA - Route 78",17,30,33,0,NA,0,12,49,100,25,NA,77,34,2,2500000
+"113","MARTA-05-3","Forsyth","Transit Expansion","MARTA","MORE MARTA - Route 83",13,33,33,0,NA,0,8,49,100,25,NA,63,32,2,3310000
+"114","MARTA-05-4","Forsyth","Transit Expansion","MARTA","MORE MARTA - Route 95",100,30,67,0,NA,0,100,47,100,0,NA,88,54,1,4660000
+"115","MARTA-05-5","Forsyth","Transit Expansion","MARTA","MORE MARTA - Route 110",100,30,100,0,NA,0,100,49,100,25,NA,89,62,1,1490000
+"116","MARTA-05-6","Forsyth","Transit Expansion","MARTA","MORE MARTA - Route 12",65,25,33,0,NA,0,0,49,100,25,NA,81,40,2,2570000
+"117","MARTA-05-7","Forsyth","Transit Expansion","MARTA","MORE MARTA - Route 49",1,25,67,0,NA,0,0,49,100,25,NA,76,35,4,2820000
+"118","MARTA-05-8","Forsyth","Transit Expansion","MARTA","MORE MARTA - Route 51",51,25,67,0,NA,0,51,49,100,25,NA,73,45,1,2670000
+"119","MARTA-05-9","Forsyth","Transit Expansion","MARTA","MORE MARTA - Route 55",43,25,67,0,NA,0,36,48,100,25,NA,70,42,3,4260000
+"120","AR-450A","Forsyth","Trail","ATL","ATL Beltline - NE Quad",100,NA,80,50,NA,100,100,67,100,25,NA,100,80,3,101000000
+"121","AR-450C","Forsyth","Trail","ATL","ATL Beltline - SE Quad",100,NA,100,50,NA,100,100,65,100,25,NA,100,83,3,98820000
+"122","ATL-299","Forsyth","Trail","ATL","Lee Street Trail",100,NA,100,50,NA,75,100,48,100,25,NA,100,78,1,8150000
+"123","BCID-02","Forsyth","Trail","ATL","Lenox Rd Trail",52,NA,20,0,NA,0,46,55,0,0,NA,100,27,2,4550000
+"124","BCID-04","Forsyth","Trail","ATL","Peachtree Rd Trail - Buckhead",83,NA,20,0,NA,50,86,50,0,25,NA,100,44,3,13950000
+"125","LBI-01","Forsyth","Trail","ATL","PATH400 - Wieuca to Loridans",34,NA,80,50,NA,75,32,61,0,0,NA,0,40,4,5600000
+"126","LBI-2","Forsyth","Trail","ATL","PATH400 - Sandy Springs Ext.",49,NA,100,50,NA,75,67,49,0,25,NA,100,59,1,3700000
+"127","WOO-1","Forsyth","Trail","CH","Noonday Creek Trail Extension",64,NA,100,0,NA,0,52,31,0,100,NA,100,51,1,3650000
+"128","1-Mar","Forsyth","Trail","CO","North Marietta Pkwy",50,NA,20,50,NA,50,44,37,100,0,NA,0,38,4,6650000
+"129","2-Mar","Forsyth","Trail","CO","Burnt Hickory Trail",36,NA,60,50,NA,50,39,32,0,25,NA,0,35,2,2320000
+"130","CCID03","Forsyth","Trail","CO","Akers Mill Trail",24,NA,20,0,NA,75,19,47,0,0,NA,0,22,4,2480000
+"131","CO-2","Forsyth","Trail","CO","Mableton Parkway Trail - PH1",75,NA,60,50,NA,0,61,37,100,0,NA,100,52,1,6770000
+"132","CO-3","Forsyth","Trail","CO","Mableton Parkway Trail - PH2",65,NA,60,50,NA,25,52,45,100,0,NA,100,54,1,4700000
+"133","CO-462","Forsyth","Trail","CO","Rottenwood Creek Trail - PH1",16,NA,80,50,NA,50,14,25,100,25,NA,100,53,3,10920000
+"134","CO-703","Forsyth","Trail","CO","West Atlanta Street Trail",25,NA,100,0,NA,0,23,40,100,0,NA,0,32,2,2200000
+"135","CW-077","Forsyth","Trail","CW","Senoia Ivy Ridge Trail",20,NA,60,0,NA,0,16,48,0,0,NA,0,16,2,1300000
+"136","Brookhaven-02","Forsyth","Trail","DK","Peachtree Creek Greenway - PH2",49,NA,100,50,NA,50,36,79,100,0,NA,0,52,1,3400000
+"137","Brookhaven-05","Forsyth","Trail","DK","North Druid Hills Path",71,NA,20,50,NA,0,69,48,100,0,NA,0,36,2,4760000
+"138","Brookhaven-06","Forsyth","Trail","DK","Dresden Dr - Trail",34,NA,20,50,NA,75,34,47,0,25,NA,0,33,4,5000000
+"139","Brookhaven-09","Forsyth","Trail","DK","Peachtree Creek Greenway - PH1",57,NA,100,50,NA,50,43,69,100,0,NA,0,53,3,6600000
+"140","DK417","Forsyth","Trail","DK","Georgetown Multimodal",60,NA,20,50,NA,75,90,50,0,0,NA,100,48,3,6500000
+"141","DK418-A","Forsyth","Trail","DK","Perimeter Trails - Ashford Dunw.",100,NA,80,0,NA,50,96,50,0,0,NA,100,52,1,2820000
+"142","DK418-B","Forsyth","Trail","DK","Perimeter Trails - Ptree Dunwoody",49,NA,80,0,NA,50,49,49,0,0,NA,100,42,3,4720000
+"143","FA-353-1","Forsyth","Trail","FA","Fayetteville Multi-Use Path",62,NA,40,0,NA,0,49,32,0,25,NA,100,33,2,3090000
+"144","FA-353-3","Forsyth","Trail","FA","Fayetteville Multi-Use Path",62,NA,40,0,NA,0,49,32,0,25,NA,100,33,2,3090000
+"145","UNI-01","Forsyth","Trail","FS","Amenity Connector Trail",2,NA,40,0,NA,75,2,62,0,0,NA,100,32,4,550000
+"146","GW-384","Forsyth","Trail","GW","Western Gwinnett Bikeway Ext",90,NA,0,0,NA,0,88,36,0,25,NA,100,34,4,8770000
+"147","GW-385","Forsyth","Trail","GW","Norcross to Lilburn Trail",75,NA,60,0,NA,0,64,43,100,0,NA,100,46,1,5550000
+"148","GW-402","Forsyth","Trail","GW","Rogers Bridge",40,NA,60,0,NA,0,30,50,0,25,NA,0,22,4,4600000
+"149","GW-TRL1","Forsyth","Trail","GW","McDaniel Farm Park Connector",18,NA,20,0,NA,50,14,74,0,0,NA,100,29,4,3700000
+"150","NORC-17-02","Forsyth","Trail","GW","Norcross LCI Greenway",47,NA,20,0,NA,0,73,50,100,25,NA,100,40,3,5450000
+"151","Peachtree Corners-01","Forsyth","Trail","GW","Crooked Creek Multi-Use Trail",98,NA,80,0,NA,50,100,17,100,0,NA,100,60,1,4300000
+"152","DAL-01","Forsyth","Trail","PA","Dallas Battlefield Trail",32,NA,20,0,NA,0,26,44,0,0,NA,0,12,2,630000
+"153","PA-100","Forsyth","Trail","PA","Dallas Battlefield Trail - PH2",39,NA,20,0,NA,0,36,25,0,0,NA,0,12,4,4230000
+"154","LOG-01","Forsyth","Trail","WA","SR81 Shared Use Path",31,NA,20,0,NA,0,30,51,0,0,NA,0,13,2,2000000
