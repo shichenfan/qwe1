@@ -1066,7 +1066,7 @@ function drawBarChart(data, type){
         yAxis: {
             allowDecimals: true,
             min: 0,
-            max: 1,
+            max: 100,
             title: {
                 text: 'Score'
             }
