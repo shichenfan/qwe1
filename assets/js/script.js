@@ -235,12 +235,19 @@ var variableMap = {
     "column_chart": false,
     "format": "decimal"
   },
-  "ProjectType":{
+ /* "ProjectType":{
     "name": "ProjectType",
     "description": "ProjectType",
     "column_chart": false,
     "format": "decimal"
   },
+	*/
+	"county":{
+		"name": "County",
+		"description": "County of origin",
+		"column_chart": false,
+		"format": "decimal"
+	},
   /*
 	"Jurisdiction":{
     "name": "Jurisdiction",
