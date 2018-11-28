@@ -891,7 +891,7 @@ function getStationData(layer, source){
 	});
 	info.update(layer.feature.properties);
 	//var categories = d3.keys(csvMap['AR-959'][0]);
-	var categories = d3.keys(csvMap['GW-PVT1'][0]);
+	var categories = d3.keys(csvMap['GW-380'][0]);
 	var index = categories.indexOf('ProjectType');
 	categories.splice(index, 1);
 	index = categories.indexOf('ID');
