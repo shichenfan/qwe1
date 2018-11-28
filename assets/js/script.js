@@ -92,7 +92,7 @@ var searchHighlightIds = [];
 
 var xVariablePreset = 'Final_Score'
 var yVariablePreset = 'Performance_Tier'
-var rVariablePreset = 'Cultural_&_Environmental_Resources'
+var rVariablePreset = 'Cultural_._Environmental_Resources'
 var colorVariablePreset = 'Cost'
 var defaultHex = "#f768a1";
 var variableMap = {
@@ -262,7 +262,7 @@ var variableMap = {
     "format": "decimal"
   },
   */
-  "Mobility_&_Congestion":{
+  "Mobility_._Congestion":{
     "name": "Mobility & Congestion",
     "description": "Travel Time Index on project link",
     "column_chart": false,
@@ -298,13 +298,13 @@ var variableMap = {
     "column_chart": false,
     "format": "decimal"
   },
-  "Air_&_Climate":{
+  "Air_._Climate":{
     "name": "Air & Climate",
     "description": "Air_&_Climate",
     "column_chart": false,
     "format": "decimal"
   },
-  "Cultural_&_Environmental_Resources":{
+  "Cultural_._Environmental_Resources":{
     "name": "Cultural & Environmental Resources",
     "description": "Cultural_&_Environmental_Resources",
     "column_chart": false,
